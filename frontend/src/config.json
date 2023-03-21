@@ -1,5 +1,5 @@
 {
     "appName": "CYW's URL Shortener",
-    "serverUrl": "http://127.0.0.1:3000"
+    "serverUrl": "http://127.0.0.1:3001"
 
 }
