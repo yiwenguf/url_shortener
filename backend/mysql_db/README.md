@@ -1,0 +1,2 @@
+  - docker build -t link_shortener_db_yw .
+  - docker run -p 3306:3306 link_shortener_db_yw

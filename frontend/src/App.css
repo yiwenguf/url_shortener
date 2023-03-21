@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+  padding: 5%;
+}
+
+.Title {
+}
+
+.Container {
+  border-style: solid;
+  border-radius: 1em;
+  padding: 1em;
+}
+
+.Destination {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.CustomUrl {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 1em;
+  justify-content: center;
+}
+
+.Buttons {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 1em;
+  justify-content: right;
+  gap: 1em;
+  
+}
+
+#horizontal-space {
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+#create-button{
+}
+
+#reset-button{
+}
